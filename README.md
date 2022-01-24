@@ -1,7 +1,7 @@
 # sap-api-integrations-maintenance-notification-creates  
-sap-api-integrations-maintenance-notification-reads は、外部システム(特にエッジコンピューティング環境)をSAPと統合することを目的に、SAP API で 保全通知データを登録するマイクロサービスです。  
-sap-api-integrations-maintenance-notification-reads には、サンプルのAPI Json フォーマットが含まれています。  
-sap-api-integrations-maintenance-notification-reads は、オンプレミス版である（＝クラウド版ではない）SAPS4HANA API の利用を前提としています。クラウド版APIを利用する場合は、ご注意ください。  
+sap-api-integrations-maintenance-notification-creates は、外部システム(特にエッジコンピューティング環境)をSAPと統合することを目的に、SAP API で 保全通知データを登録するマイクロサービスです。  
+sap-api-integrations-maintenance-notification-creates には、サンプルのAPI Json フォーマットが含まれています。  
+sap-api-integrations-maintenance-notification-creates は、オンプレミス版である（＝クラウド版ではない）SAPS4HANA API の利用を前提としています。クラウド版APIを利用する場合は、ご注意ください。  
 https://api.sap.com/api/OP_API_MAINTNOTIFICATION/overview  
 
 ## 動作環境  
