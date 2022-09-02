@@ -38,7 +38,7 @@ accepter において 下記の例のように、データの種別（＝APIの�
 ここでは、"Header" が指定されています。    
   
 ```
-	"api_schema": "SAPMaintenanceNotificationCreate",
+	"api_schema": "SAPMaintenanceNotificationCreates",
 	"accepter": ["Header"],
 	"maintenance_notification": "",
 	"deleted": false
@@ -49,7 +49,7 @@ accepter において 下記の例のように、データの種別（＝APIの�
 全データを登録する場合、sample.json は以下のように記載します。  
 
 ```
-	"api_schema": "SAPMaintenanceNotificationCreate",
+	"api_schema": "SAPMaintenanceNotificationCreates",
 	"accepter": ["All"],
 	"maintenance_notification": "",
 	"deleted": false

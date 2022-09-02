@@ -4,7 +4,7 @@
 	"redis_key": "abcdefg",
 	"filepath": "/var/lib/aion/Data/rededge_sdc/abcdef.json",
 	"MaintenanceNotification": {
-		"MaintenanceNotification": "10000020",
+		"MaintenanceNotification": "",
 		"MaintNotifInternalID": "",
 		"NotificationText": "",
 		"MaintPriority": "",
@@ -123,8 +123,8 @@
 			}
 		}
 	},
-	"api_schema": "sap.s4.beh.maintenancenotification.v1.MaintenanceNotification.Created.v1",
+	"api_schema": "SAPMaintenanceNotificationCreates",
 	"accepter": ["Header"],
-	"maintenance_notification": "10000020",
+	"maintenance_notification": "",
 	"deleted": false
 }
